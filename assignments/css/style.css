@@ -1,0 +1,35 @@
+h2{
+    color: #843084;
+    font-size: 31px;
+    margin-top: 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#form{
+    text-align: -webkit-center;
+}
+table{    
+    background: #843084;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+table tr td {
+    color: white;
+}
+.center{
+    text-align: center;
+}
+
+table tr td:first-child{
+    text-transform: uppercase;
+    padding-right: 40px;
+    padding-left: 17px;
+}
+p,a{
+    font-size: 30px;
+    color: #942176;
+}
+h3{
+    color: #32c671;
+    font-size: 33px;
+}

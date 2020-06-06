@@ -1,0 +1,81 @@
+.cont-detail h1{
+    font-family: 'Copse', serif;
+    text-align: center;
+    /* padding-top: 1em; */
+    text-transform: uppercase;
+    font-size: 2.5em;
+  }
+  .cont-detail hr{
+        margin-top: 1rem;
+        margin-bottom: 0 !important;
+        border: 0;
+        border-top: 2px solid rgb(125, 66, 125);
+
+  }
+  .cont-detail p{    
+    font-size: 1.5em;
+    text-align: center !important;
+    padding: 1em 3.5em 0em 3.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-bottom: 2em !important;
+  }
+  h3.center{
+    margin-top: 0.5em !important;
+  }
+  .card{
+    margin-top: 2em;
+  }
+  input,textarea{
+    font-size: 1.2em !important;
+    border: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;    
+    margin-top: 2em !important;
+    border-bottom: 2px solid #ced4da !important;
+    width: 100% !important;
+  }
+  /* input{
+  } */
+  input:focus,textarea:focus{
+    border-color: inherit;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    border-bottom: 2px solid #10bcac !important ;
+  }
+  textarea{
+    resize: none;
+  }
+  form{
+    padding: 1em 2em;
+    padding-right: 2em;
+    padding-bottom: 3em;
+  }
+  .btn-primary{
+    font-size: 2em !important;
+      padding: 0.3em 1.5em !important;
+      float: right !important;
+      margin-right: 1em !important;
+      background: #7d427d !important;
+      letter-spacing: 1px;
+      font-family: 'Oxygen', sans-serif;
+      border: none !important;
+  }
+  .contact-ref a{
+    text-decoration: none !important;
+    font-size: 3em ;
+      padding: 0.5em 3em !important;
+      color: white !important;
+      /* float: right !important; */
+      margin-right: 1em !important;
+      background: #10bcac !important;
+      border: none !important;
+      border-radius: 100px;
+      font-family: 'Oxygen', sans-serif;
+  }
+  .contact-ref{
+    margin-bottom: 11em;
+    text-align: center;
+    padding-top: 4em;
+  }
+  
